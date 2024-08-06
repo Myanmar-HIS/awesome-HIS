@@ -1,4 +1,4 @@
-# Awesome Health Information Systems [![Awesome]
+# Awesome Health Information Systems
 
 A curated list of awesome resources for Health Information Systems (HIS). HIS are systems designed to manage healthcare data, enabling healthcare providers to deliver efficient, effective care.
 
